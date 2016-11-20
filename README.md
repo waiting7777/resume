@@ -32,7 +32,7 @@ E-mail : waiting0819@msn.com
 
 
 
-### 自介
+## 自介
 
 資工系畢業後，順著大眾的潮流，進了鴻海寫 Notebook 的韌體2年，之後轉入威創寫 protocol 1年，
 
