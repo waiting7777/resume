@@ -36,7 +36,7 @@ E-mail : waiting0819@msn.com
 
 ## 自介
 
-資工系畢業後，順著大眾的潮流，進了鴻海寫 Notebook 的韌體2年，之後轉入威創寫 protocol 1年，
+資工系畢業後，進了鴻海寫 Notebook 的韌體2年，之後轉入威創寫 protocol 1年，
 
 發覺寫底層韌體實在不是興趣所在，回去念研究所並往自己最有興趣的 web 前進，在學期間有幫忙維護
 
@@ -75,12 +75,6 @@ http://theme.udn.com/theme/story/6773/1583231
 http://theme.udn.com/theme/story/6774/1572972
 
 因應編輯需求，研究 three.js 客製 360 全景照片撥放器。
-
-<br/>
-
-https://waiting7777.github.io/chart-build/
-
-圖表製做進入量產後，使用 react.js 進行圖表工具的開發。
 
 <br/>
 
