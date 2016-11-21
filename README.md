@@ -84,7 +84,7 @@ https://waiting7777.github.io/chart-build/
 
 http://waiting4u.org/mtg/
 
-因為自己的興趣，自製了一套卡片交易系統。
+因為自己的興趣，以jQuery + php + mysql 自製了一套卡片交易系統。
 
 <br/>
 
