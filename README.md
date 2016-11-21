@@ -95,12 +95,13 @@ http://139.162.15.127:3000/
 使用 node.js + express + mongo 所架之資料庫
 
 
+https://waiting7777.github.io/markdown-vue/
 
 http://139.162.15.127:3000/caculator.html
 
 http://139.162.15.127:3000/iv_caculator.html
 
-前端框架 vue.js 試作。
+markdown 語法編輯器 以及 神奇寶貝 IV 計算機 使用前端框架 vue.js 試作。
 
 
 
@@ -109,7 +110,7 @@ http://139.162.15.127:3000/iv_caculator.html
 基礎的資料庫、API 界接，都能自己處理，自詡為全端了 lol
 
 
-
+  
 因為身處媒體界，知道現在直播正夯，不只老牌twitch，大陸那邊各種直播平台興起，
 
 Facebook 也是強推直播的功能，期望能有參與一起打造直播平台的機會。
