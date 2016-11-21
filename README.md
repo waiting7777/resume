@@ -8,7 +8,7 @@
 
 出生日期 : 1986/08/19
 
-
+<br/>
 
 ## 連絡資料
 
@@ -16,7 +16,7 @@ E-mail : waiting0819@msn.com
 
 手機 : 0972050116
 
-
+<br/>
 
 ### 學/經歷
 
@@ -30,7 +30,7 @@ E-mail : waiting0819@msn.com
 
 聯合報系  前端工程師
 
-
+<br/>
 
 ## 自介
 
@@ -40,11 +40,11 @@ E-mail : waiting0819@msn.com
 
 經濟系網站，以及在外面接案子，目前更是一頭熱栽下在前端努力中，期許自己能夠在 web 領域能夠繼續精進自己的技術。
 
-
+<br/>
 
 #### 相關作品
 
-
+<br/>
 
 http://p.udn.com.tw/upf/newmedia/2016_data/20160117_udnthirdparty/udnthirdparty/index.html
 
@@ -52,7 +52,7 @@ http://p.udn.com.tw/upf/newmedia/2016_data/20160125_premier/
 
 以 d3.js 製作視覺化的圖表呈現在網頁上。
 
-
+<br/>
 
 http://p.udn.com.tw/upf/newmedia/2016_data/20160430_migrante/
 
@@ -66,7 +66,7 @@ http://p.udn.com.tw/upf/newmedia/2016_data/20161109_strategy_t/index.html
 
 以及 RWD 跟 跨瀏覽器等等細節問題之處理。
 
-
+<br/>
 
 http://theme.udn.com/theme/story/6773/1583231
 
@@ -74,19 +74,19 @@ http://theme.udn.com/theme/story/6774/1572972
 
 因應編輯需求，研究 three.js 客製 360 全景照片撥放器。
 
-
+<br/>
 
 https://waiting7777.github.io/chart-build/
 
 圖表製做進入量產後，圖表工具的開發。
 
-
+<br/>
 
 http://waiting4u.org/mtg/
 
 因為自己的興趣，自製了一套卡片交易系統。
 
-
+<br/>
 
 http://139.162.15.127:3000/
 
@@ -94,6 +94,7 @@ http://139.162.15.127:3000/
 
 使用 node.js + express + mongo 所架之資料庫
 
+<br/>
 
 https://waiting7777.github.io/markdown-vue/
 
@@ -103,14 +104,14 @@ http://139.162.15.127:3000/iv_caculator.html
 
 markdown 語法編輯器 以及 神奇寶貝 IV 計算機 使用前端框架 vue.js 試作。
 
-
+<br/>
 
 目前在前端的關係，所以列的作品都以前端為主，但是因為底層的經驗，
 
 基礎的資料庫、API 界接，都能自己處理，自詡為全端了 lol
 
 
-  
+
 因為身處媒體界，知道現在直播正夯，不只老牌twitch，大陸那邊各種直播平台興起，
 
 Facebook 也是強推直播的功能，期望能有參與一起打造直播平台的機會。
