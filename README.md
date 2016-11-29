@@ -56,7 +56,7 @@ http://p.udn.com.tw/upf/newmedia/2016_data/20160125_premier/
 
 <br/>
 
-https://waiting7777.github.io/cpchange/index.html
+http://139.162.15.127:3000/cp_change.html
 
 vue.js + d3.js 製作互動圖表。
 
