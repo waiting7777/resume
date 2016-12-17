@@ -54,7 +54,7 @@ http://p.udn.com.tw/upf/newmedia/2016_data/20160125_premier/
 
 <br/>
 
-http://139.162.15.127:3000/cp_change.html
+http://139.162.15.127/cp_change.html
 
 vue.js + d3.js 製作互動圖表。
 
@@ -88,7 +88,7 @@ http://waiting4u.org/mtg/
 
 <br/>
 
-http://139.162.15.127:3000/
+http://139.162.15.127/
 
 也是興趣之作，因為近幾年前端演化極快，花時間研究自學並實作。
 
@@ -98,9 +98,9 @@ http://139.162.15.127:3000/
 
 https://waiting7777.github.io/markdown-vue/
 
-http://139.162.15.127:3000/caculator.html
+http://139.162.15.127/caculator.html
 
-http://139.162.15.127:3000/iv_caculator.html
+http://139.162.15.127/iv_caculator.html
 
 markdown 語法編輯器 以及 神奇寶貝 IV 計算機 使用前端框架 vue.js 試作。
 
