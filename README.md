@@ -30,17 +30,21 @@ E-mail : waiting0819@msn.com
 
 台灣大學資訊與多媒體研究所 畢業 (2013~2015)
 
-聯合報系 新媒體中心 前端工程師 (2015~)
+聯合報系 新媒體中心 全端工程師 (2015~)
 
 <br/>
 
 ## 自介
 
-資工系畢業後，進了鴻海寫 Notebook 的韌體2年，之後轉入威創寫 protocol 1年，
+畢業於台灣大學網際網路多媒體研究所，在大學畢業當兵退伍後，先後待了兩家公司寫韌體，後來回去研究所完成學業，
 
-發覺寫底層韌體實在不是興趣所在，回去念研究所並往自己最有興趣的 web 前進，在學期間有幫忙維護
+並在就學期間充實自己，在研究所在學期間接了不少系統開發案子，畢業論文題目為“即時金融交易容錯系統設計”，
 
-經濟系網站，以及在外面接案子，目前更是一頭熱栽下在前端努力中，期許自己能夠在 web 領域能夠繼續精進自己的技術。
+設計一套容錯系統，模擬台灣股市證券交易，在即時交易量下，仍能容錯維持原本運作，並分析模擬各個狀態對於容錯架構之影響，
+
+目前則在聯合報系當全端工程師，以 d3.js 製作視覺化圖表呈現，以及 react.js + d3.js 開發編輯圖表製作系統．
+
+
 
 <br/>
 
@@ -56,7 +60,7 @@ http://p.udn.com.tw/upf/newmedia/2016_data/20160125_premier/
 
 <br/>
 
-http://139.162.15.127:3000/cp_change.html
+http://139.162.15.127/cp_change.html
 
 vue.js + d3.js 製作互動圖表。
 
@@ -84,30 +88,39 @@ http://theme.udn.com/theme/story/6774/1572972
 
 <br/>
 
+https://waiting7777.github.io/chart-build/
+
+d3.js + react.js 圖表編輯工具開發
+
+<br/>
+
 http://waiting4u.org/mtg/
 
 因為自己的興趣，以jQuery + php + mysql 自製了一套卡片交易系統。
 
 <br/>
 
-http://139.162.15.127:3000/
-
-也是興趣之作，因為近幾年前端演化極快，花時間研究自學並實作。
-
-使用 node.js + express + mongo 所架之資料庫
+https://github.com/waiting7777/mtgcard
+用 python 每天爬取 遊戲卡的價格
 
 <br/>
 
-https://waiting7777.github.io/markdown-vue/
+https://github.com/waiting7777/CardDog
 
-http://139.162.15.127:3000/caculator.html
-
-http://139.162.15.127:3000/iv_caculator.html
-
-markdown 語法編輯器 以及 神奇寶貝 IV 計算機 使用前端框架 vue.js 試作。
+搭配卡價爬蟲 自製 LineBot 自動回覆卡片價格機器人
 
 <br/>
 
-目前在前端的關係，所以列的作品都以前端為主，
+http://139.162.15.127/
 
-但是因為底層的經驗，基礎的資料庫、API 界接，也能自己處理。
+使用 node.js + mongodb 所架之神奇寶貝資料庫
+
+<br/>
+
+http://139.162.15.127/caculator.html
+
+http://139.162.15.127/iv_caculator.html
+
+神奇寶貝 IV 計算機 使用前端框架 vue.js 試作。
+
+<br/>
