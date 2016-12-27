@@ -58,7 +58,7 @@ http://p.udn.com.tw/upf/newmedia/2016_data/20160125_premier/
 
 <br/>
 
-http://139.162.15.127/cp_change.html
+http://139.162.15.127:3000/cp_change.html
 
 vue.js + d3.js 製作互動圖表。
 
@@ -110,15 +110,15 @@ https://github.com/waiting7777/CardDog
 
 <br/>
 
-http://139.162.15.127/
+http://139.162.15.127:3000/
 
 使用 node.js + mongodb 所架之神奇寶貝資料庫
 
 <br/>
 
-http://139.162.15.127/caculator.html
+http://139.162.15.127:3000/caculator.html
 
-http://139.162.15.127/iv_caculator.html
+http://139.162.15.127:3000/iv_caculator.html
 
 神奇寶貝 IV 計算機 使用前端框架 vue.js 試作。
 
