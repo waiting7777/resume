@@ -99,6 +99,7 @@ http://waiting4u.org/mtg/
 <br/>
 
 https://github.com/waiting7777/mtgcard
+
 用 python 每天爬取 遊戲卡的價格
 
 <br/>
